@@ -1,0 +1,11 @@
+
+#footer
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+#page li
+{
+    margin: 70px 20px;
+}
